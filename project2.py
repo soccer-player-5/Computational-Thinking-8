@@ -52,7 +52,7 @@ if introverted_points >= extroverted_points and introverted_points >= ambiverted
 elif extroverted_points >= introverted_points and extroverted_points >= ambiverted_points:
     print("You are a extroverted person. You like to meet new people!")
 elif ambiverted_points >= introverted_points and ambiverted_points >= extroverted_points:
-    print("You are an ambiverted person. You like to meet new people but are a little shy.")
+    print("")
 else:
     print("I don't know which one you are...")
 input("")
